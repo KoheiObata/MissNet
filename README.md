@@ -8,11 +8,10 @@ The directory is structured as follows:
 ```
 .
 ├── data
-│   ├── experiment
 │   ├── original
 │   ├── conversion.py
 │   └── generate.py
-├── experiment
+├── temp
 ├── result
 ├── Experiment.py
 ├── main.py
