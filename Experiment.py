@@ -84,7 +84,7 @@ def parameter_loop(data, config_list, iteration=1):
                             X = np.loadtxt(f'{PATH}/X_{data.state}.txt')
                             execute(X, SAVEPATH, config)
                         except:
-                            print('Error')
+                            print('Prepare dataset')
                             continue
 
 def experiment_List(site, n_components_list = [30], alpha_list = [0.5], beta_list = [0.1], n_cl_list = [1], max_iter = 50, tol = 5, random_init = False, max_missing_len_list = [0.05], min_missing_len_list = [0.0], missing_rate_test_list = [0.1,0.4,0.8], missing_rate_train_list = [0.0], state = 'test'):
