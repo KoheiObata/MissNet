@@ -1,25 +1,6 @@
 # MissNet
 
 
-## Directory structure
-
-The directory is structured as follows:
-
-```
-.
-├── data
-│   ├── original
-│   ├── conversion.py
-│   └── generate.py
-├── temp
-├── result
-├── Experiment.py
-├── main.py
-├── requirements.txt
-└── tvgl.py
-
-```
-
 
 ## Requirements
 
