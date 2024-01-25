@@ -64,8 +64,7 @@ python conversion.py
 
 Change `missing_rate_test` in `conversion.py` for full experiments (if necessary).
 
-The data containing missing blocks is stored in
-./data/experiment
+The data containing missing blocks will be stored in `./data/experiment`.
 
 
 ## Experiments
