@@ -35,7 +35,7 @@ python generate.py
 ---
 
 ### MotionCapture datasets
-MotionCapture datasets is stored in dynammo.zip.
+MotionCapture datasets are stored in `dynammo.zip`.
 
 The original data can be downloaded from
 [link](https://github.com/lileicc/dynammo/tree/master/data/c3d).
@@ -47,7 +47,7 @@ This is the original website
 ---
 
 ### Motes dataset
-Motes dataset is stored in motes.zip.
+Motes dataset is stored in `motes.zip`.
 
 The original data can be downloaded from
 [link](https://db.csail.mit.edu/labdata/labdata.html).
@@ -62,7 +62,7 @@ cd  data
 python conversion.py
 ```
 
-Change "missing_rate_test" in conversion.py for full experiments (if necessary).
+Change `missing_rate_test` in `conversion.py` for full experiments (if necessary).
 
 The data containing missing blocks is stored in
 ./data/experiment
