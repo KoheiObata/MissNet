@@ -1,7 +1,7 @@
 # MissNet: Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series
 Implementation of [MissNet](),
 Kohei Obata, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai.
-The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, [KDD'24]([https://www2024.thewebconf.org/](https://kdd2024.kdd.org/)).
+The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, [KDD'24](https://kdd2024.kdd.org/).
 
 
 ## Requirements
