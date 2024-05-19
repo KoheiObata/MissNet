@@ -1,5 +1,7 @@
-# MissNet
-
+# MissNet: Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series
+Implementation of [MissNet](),
+Kohei Obata, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai.
+the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, [KDD'24]([https://www2024.thewebconf.org/](https://kdd2024.kdd.org/)).
 
 
 ## Requirements
@@ -75,4 +77,11 @@ After the preparation of datasets and missing blocks, run below.
 python Experiment.py --datasets dynammo
 python Experiment.py --datasets motes
 python Experiment.py --datasets synthetic/pattern
+```
+
+
+## Citation
+If you use this code for your research, please consider citing our KDD paper.
+```bibtex
+
 ```
